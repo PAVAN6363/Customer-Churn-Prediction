@@ -1,4 +1,4 @@
-Customer Churn Prediction Project  
+# Customer Churn Prediction Project  
 Developed a customer churn prediction model using Python and machine learning (scikit-learn, XGBoost) to analyze telecom customer data, identifying key factors influencing cancellations. The project involved comprehensive data cleaning, exploratory analysis (EDA), and feature engineering to handle missing values and categorical variables. Implemented SMOTE to address class imbalance and evaluated multiple algorithms (Decision Tree, Random Forest, XGBoost) using accuracy metrics and confusion matrices. The final model achieved X% accuracy in predicting at-risk customers, enabling proactive retention strategies. Demonstrated strong skills in Python, Pandas, Seaborn, and machine learning workflows from preprocessing to deployment-ready solutions.
 
 🔍 Key Features
